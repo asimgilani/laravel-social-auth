@@ -29,7 +29,7 @@
         "illuminate/routing": "^6.0 || ^7.0 || ^8.0",
         "illuminate/support": "^6.0 || ^7.0 || ^8.0",
         "laravel/ui": "^1.0 || ^2.0 || ^3.0",
-        "socialiteproviders/manager": "^3.6"
+        "socialiteproviders/manager": "^3.6 || ^4.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.3",
